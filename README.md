@@ -30,5 +30,8 @@
 ##重构个人网站reactjs版本：
 作为熟悉和入门reactjs的一次实践。
   ![image](https://github.com/kliuj/myProduction/blob/master/img/react1.jpg)
+##react-native重构pc站：
+学习react-native的实践内容
+  ![image](https://github.com/kliuj/myProduction/blob/master/img/rn2.jpg)  
 
 [个人网站全部源码](https://github.com/kliuj/kliu-blog)  
